@@ -7,7 +7,7 @@ Simple link shortener that shortens links using different API(s). Feel free to u
 Install basic modules
 
 ```bash
-pip install modules.txt
+pip install -r requirements.txt
 ```
     
 ## Screenshots
