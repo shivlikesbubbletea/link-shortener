@@ -1,5 +1,4 @@
 # API(s) used: Bitly, Shortest, Cuttly
-# Please note that Bitly does not work on newer python versions
 
 
 import bitly_api
