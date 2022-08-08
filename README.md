@@ -1,5 +1,5 @@
 
-# AI Chatbot
+# Link Shortener
 
 Simple link shortener that shortens links using different API(s). Feel free to use and edit as per your need. Credits are appreciated but not required.
 ## Installation
